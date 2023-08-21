@@ -18,7 +18,7 @@ Despite the simplicity of the task, I've taken a deliberate approach to structur
 1. Clone the repository to your local machine. Assuming that you have react native CLI configured mentioned here. https://reactnative.dev/docs/environment-setup, follow the next steps to run the project.
 2. Install the required dependencies using `npm install` or `yarn install`.
 3. Run the app using `yarn ios` or `yarn android` to run on iOS or android respectively.
-Note. For ios don't forget to install pods first, using cd ios && pod install && cd .. in terminal of the project directory.
+Note. For ios don't forget to install pods first, using `cd ios && pod install && cd ..` in terminal of the project directory.
 
 ## Code Structure
 The project is structured as follows:
