@@ -42,8 +42,10 @@ The project is structured as follows:
 ## Future Improvements
 - **Testing**: Implement thorough unit and integration testing to ensure stability.
 - **Styling**: Enhance the user interface with improved styling and responsive design.
+- **Validations**: Using [Formik](https://formik.org/) for a form like in update billing address screen which will provide custom input implementation and some enhanced validation as well.
 - **Localization**: Add support for different languages and locales.
 - **react-native-config**: The setup of the environment should be orchestrated through React Native Config, a valuable tool that facilitates the configuration of distinct environments to ensure robust support for varying deployment contexts. Also secrets should never be part of repo directly and store at a secure platform e.g.1password.
+
 
 Have a look at this example repo for clean project structure details:
 https://github.com/alihussnain-git/gallery-app
